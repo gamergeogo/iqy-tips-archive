@@ -1,2 +1,14 @@
 # iqy-tips-archive
-HTML page archive and documentation
+
+页面托管与归档说明
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
